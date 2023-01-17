@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="hrPageTestcase">
+	
+	<test name="Loginflow">
+		<classes>
+			<class name="hrPageTestCase.TC_LoginTestCase_001"></class>
+			<class name="hrPageTestCase.TC_companyTestcase_002"></class>
+			<class name="hrPageTestCase.TC_leavesTestcase_003"></class>
+			<class name="hrPageTestCase.TC_Attendancetestcase_004"></class>
+			<!-- <class name="hrPageTestCase.TC_UserTestcase_005"></class>  -->
+			<class name="hrPageTestCase.TC_BirthdayTestcase_006"></class>
+			
+			
+			 
+		</classes>
+	</test>
+
+</suite>

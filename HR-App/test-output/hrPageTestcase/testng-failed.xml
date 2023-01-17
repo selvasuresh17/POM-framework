@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [hrPageTestcase]">
+  <test name="Loginflow">
+    <classes>
+      <class name="hrPageTestCase.TC_LoginTestCase_001"/>
+      <class name="hrPageTestCase.TC_companyTestcase_002"/>
+      <class name="hrPageTestCase.TC_leavesTestcase_003"/>
+      <class name="hrPageTestCase.TC_Attendancetestcase_004"/>
+      <class name="hrPageTestCase.TC_BirthdayTestcase_006"/>
+    </classes>
+  </test> <!-- Loginflow -->
+</suite> <!-- Failed suite [hrPageTestcase] -->
